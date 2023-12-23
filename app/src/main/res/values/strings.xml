@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Secure</string>
+    <string name="bioAuth">생체인식으로 잠금 해제</string>
+    <string name="copy">복사</string>
+    <string name="hint_name">값 이름</string>
+    <string name="hint_value">값</string>
+    <string name="add_value">추가</string>
+    <string name="edit">편집</string>
+    <string name="Locked">잠김</string>
+</resources>
